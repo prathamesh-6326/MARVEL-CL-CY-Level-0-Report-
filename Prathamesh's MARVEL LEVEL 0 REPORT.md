@@ -157,4 +157,4 @@ I referred to the L293D motor driver datasheet and studied its pin configuration
 
 ***Final outcome:*** A complete datasheet-based technical report on the L293D motor driver was prepared.
 
-Hyperlink : [L239D motor driver](https://drive.google.com/file/d/1pK1RQ5Knf2lFC4oHziovkqZ_j5Pvo6ns/view?usp=drivesdk)
+Hyperlink : [L293D motor driver](https://drive.google.com/file/d/1pK1RQ5Knf2lFC4oHziovkqZ_j5Pvo6ns/view?usp=drivesdk)
